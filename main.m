@@ -11,7 +11,7 @@ clc;
 
 %% Load the image and split channels. 
 
-rgbImage=double(imread('/home/fernando/UNDER_WATER_IMAGING/Applications/test8.jpg'))/255;
+rgbImage=double(imread('test13.jpg'))/255;
 
 grayImage = rgb2gray(rgbImage); 
 
