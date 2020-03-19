@@ -9,3 +9,13 @@ doi: 10.1109/TIP.2017.2759252
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8058463&isnumber=8071125
 
 
+
+
+
+
+<img src="https://raw.githubusercontent.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-./master/test13.jpg" alt="Original"
+	title="Original Image:" width="640" height="480" />
+  
+<img src="https://raw.githubusercontent.com/fergaletto/Color-Balance-and-fusion-for-underwater-image-enhancement.-./master/out.jpg" alt="Enhanced"
+	title="Enhanced Image:" width="640" height="480" />
+
